@@ -1,89 +1,89 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://shashankrawlani.github.io/washeteria.in.test/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://washeteria.in/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://shashankrawlani.github.io/washeteria.in.test/</loc>
-		<lastmod>2024-10-20T18:11:56+00:00</lastmod>
+		<loc>https://washeteria.in/</loc>
+		<lastmod>2024-10-20T18:23:19+00:00</lastmod>
 		<image:image>
-			<image:loc>https://shashankrawlani.github.io/washeteria.in.test/wp-content/uploads/2024/10/Image-10-10-24-at-11.49%E2%80%AFAM.jpeg</image:loc>
+			<image:loc>https://washeteria.in/wp-content/uploads/2024/10/Image-10-10-24-at-11.49%E2%80%AFAM.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://shashankrawlani.github.io/washeteria.in.test/wp-content/uploads/2024/10/cropped-washeteria-logo-1024x269.jpeg</image:loc>
+			<image:loc>https://washeteria.in/wp-content/uploads/2024/10/cropped-washeteria-logo-1024x269.jpeg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://shashankrawlani.github.io/washeteria.in.test/book-an-appointment/</loc>
+		<loc>https://washeteria.in/book-an-appointment/</loc>
 		<lastmod>2024-10-05T12:41:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://shashankrawlani.github.io/washeteria.in.test/about-us/</loc>
+		<loc>https://washeteria.in/about-us/</loc>
 		<lastmod>2024-10-05T12:41:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://shashankrawlani.github.io/washeteria.in.test/services/</loc>
+		<loc>https://washeteria.in/services/</loc>
 		<lastmod>2024-10-05T12:41:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://shashankrawlani.github.io/washeteria.in.test/deals/</loc>
+		<loc>https://washeteria.in/deals/</loc>
 		<lastmod>2024-10-05T13:20:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://shashankrawlani.github.io/washeteria.in.test/dry-cleaning/</loc>
+		<loc>https://washeteria.in/dry-cleaning/</loc>
 		<lastmod>2024-10-05T13:38:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://shashankrawlani.github.io/washeteria.in.test/wash-fold/</loc>
+		<loc>https://washeteria.in/wash-fold/</loc>
 		<lastmod>2024-10-05T13:38:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://shashankrawlani.github.io/washeteria.in.test/steam-iron/</loc>
+		<loc>https://washeteria.in/steam-iron/</loc>
 		<lastmod>2024-10-05T13:38:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://shashankrawlani.github.io/washeteria.in.test/special-services/</loc>
+		<loc>https://washeteria.in/special-services/</loc>
 		<lastmod>2024-10-05T13:38:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://shashankrawlani.github.io/washeteria.in.test/shoe-spa/</loc>
+		<loc>https://washeteria.in/shoe-spa/</loc>
 		<lastmod>2024-10-05T13:38:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://shashankrawlani.github.io/washeteria.in.test/leather-spa/</loc>
+		<loc>https://washeteria.in/leather-spa/</loc>
 		<lastmod>2024-10-05T13:38:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://shashankrawlani.github.io/washeteria.in.test/curtain-cleaning/</loc>
+		<loc>https://washeteria.in/curtain-cleaning/</loc>
 		<lastmod>2024-10-05T13:38:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://shashankrawlani.github.io/washeteria.in.test/trolley-bags/</loc>
+		<loc>https://washeteria.in/trolley-bags/</loc>
 		<lastmod>2024-10-05T13:38:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://shashankrawlani.github.io/washeteria.in.test/organic-dry-cleaning/</loc>
+		<loc>https://washeteria.in/organic-dry-cleaning/</loc>
 		<lastmod>2024-10-05T13:38:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://shashankrawlani.github.io/washeteria.in.test/premium-laundry/</loc>
+		<loc>https://washeteria.in/premium-laundry/</loc>
 		<lastmod>2024-10-05T13:38:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://shashankrawlani.github.io/washeteria.in.test/carpet-cleaning/</loc>
+		<loc>https://washeteria.in/carpet-cleaning/</loc>
 		<lastmod>2024-10-05T13:38:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://shashankrawlani.github.io/washeteria.in.test/fabric-spa/</loc>
+		<loc>https://washeteria.in/fabric-spa/</loc>
 		<lastmod>2024-10-05T13:38:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://shashankrawlani.github.io/washeteria.in.test/woolen-wash/</loc>
+		<loc>https://washeteria.in/woolen-wash/</loc>
 		<lastmod>2024-10-05T13:38:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://shashankrawlani.github.io/washeteria.in.test/handbags-2/</loc>
+		<loc>https://washeteria.in/handbags-2/</loc>
 		<lastmod>2024-10-05T13:38:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://shashankrawlani.github.io/washeteria.in.test/contact/</loc>
+		<loc>https://washeteria.in/contact/</loc>
 		<lastmod>2024-10-06T15:34:02+00:00</lastmod>
 	</url>
 </urlset>
